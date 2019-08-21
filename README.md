@@ -1,6 +1,6 @@
 # sg-login
 
-> My striking Nuxt.js project
+> login
 
 ## Build Setup
 
